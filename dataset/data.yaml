@@ -1,0 +1,11 @@
+# Scripts resolve this file and path relative to the repository.
+path: .
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: drone
+# Add classes only after matching labels have been prepared:
+#  1: bird
+#  2: aircraft
+#  3: helicopter
